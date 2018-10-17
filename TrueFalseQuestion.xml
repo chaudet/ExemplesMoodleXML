@@ -1,5 +1,5 @@
-﻿<?xml version="1.0"?>
-<question type="truefalse">
+<?xml version="1.0"?>
+<question type="question truefalse">
   <answer fraction="100">
     <text>true</text>
     <feedback><text>Correct!</text></feedback>
